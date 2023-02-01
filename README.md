@@ -1,3 +1,7 @@
+Welcome to Employeemanagement app here i used dummy database and i run that database in json server to get Endapi to render Home,Employeelist,Addemplyee,DeleteEmployee components
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
