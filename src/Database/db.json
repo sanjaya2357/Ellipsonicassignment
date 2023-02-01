@@ -1,0 +1,110 @@
+{
+  "employees": [
+    {
+      "empid": 1,
+      "Firstname": "JRD",
+      "Lastname": "TATA",
+      "email": "Sanjaya2357@gmail.com",
+      "mobnumber": 7760379080,
+      "City": "Bangalore",
+      "dob": "07-07-1997",
+      "country": "India",
+      "state": "Karnataka",
+      "profskills": [
+        "Time Management",
+        "Communication",
+        "Decision Making"
+      ],
+      "photo": "../Photos/jrd.jpg",
+      "name": "JRD TATA"
+    },
+    {
+      "empid": 2,
+      "Firstname": "Elon",
+      "Lastname": "Musk",
+      "City": "Washington dc",
+      "email": "elsonmusk@gmail.com",
+      "mobnumber": 8095508105,
+      "dob": "07-07-2000",
+      "country": "USA",
+      "state": "Newyork",
+      "profskills": [
+        "Communication",
+        "Time Management"
+      ],
+      "photo": "../Photos/Elonmusk.jpg",
+      "name": "Elon Musk"
+    },
+    {
+      "empid": 3,
+      "Firstname": "Satya",
+      "Lastname": "Nadella",
+      "City": "Mysore",
+      "email": "Satyanadella@gmail.com",
+      "mobnumber": 8687398789,
+      "dob": "07-07-1997",
+      "country": "India",
+      "state": "Karnataka",
+      "profskills": [
+        
+        "Leadership",
+        "Communication",
+        "Decision Making"
+      ],
+      "photo": "../Photos/satyanadella.webp",
+      "name": "Satya Nadella"
+    },
+    {
+      "empid": 4,
+      "Firstname": "Sachin",
+      "Lastname": "Tendlukar",
+      "email": "Sachin.com",
+      "mobnumber": 7760379080,
+      "City": "Mumbai",
+      "dob": "23-02-1986",
+      "country": "India",
+      "state": "Maharastra",
+      "profskills": [
+        "Communication",
+        "Decision Making",
+        "Leadership"
+      ],
+      "photo": "../Photos/sachin.webp",
+     "name": "Sachin Tendlukar"
+    },
+    {
+      "empid": 5,
+      "Firstname": "Rahul",
+      "Lastname": "KL",
+      "City": "Mangalore",
+      "email": "Class123@gmail.com",
+      "mobnumber": 8095508105,
+      "dob": "17-08-2000",
+      "country": "India",
+      "state": "Karnataka",
+      "profskills": [
+        "Communication",
+        "Decision Making"
+      ],
+      "photo": "../Photos/klrahul.webp",
+      "name": "Rahul KL"
+    },
+    {
+      "empid": 6,
+      "Firstname": "Virat ",
+      "Lastname": "Kohli",
+      "City": "Amrithsir",
+      "email": "King16@gmail.com",
+      "mobnumber": 8687398789,
+      "dob": "23-07-1987",
+      "country": "India",
+      "state": "New Delhi",
+      "profskills": [
+        "Communication",
+        "Time Management"
+      ],
+      "photo": "../Photos/virat-kohli.webp",
+      "name": "Virat Kohli"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+.table{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.add-Employee
+
+  {
+    background-color:rgb(159, 181, 248);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .add-container
+{
+	background-color: rgb(213, 238, 241);
+	width: 400px;
+	padding: 15px;
+	/* text-align: center; */
+	border-radius: 10px;
+	
+}
+ .update-Employee
+
+  {
+    background-color:rgb(159, 181, 248);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .update-container
+{
+	background-color: rgb(213, 238, 241);
+	width: 400px;
+	padding: 15px;
+	/* text-align: center; */
+	border-radius: 10px;
+	
+}
+ 
+ 
+
